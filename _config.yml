@@ -1,13 +1,14 @@
 name: EventStarter
 favicon: null
-layout_spectrum: 0.520217859884724
-typography_spectrum: 0.6717500456143171
+layout_spectrum: 1
+typography_spectrum: 0.76955
+title: LarpPlatformer
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-72574264-1
   facebook: null
   twitter: null
 opengraph:
@@ -16,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.80749556212686
-  lightness: 0.5455697134602815
-  saturation: 0.29317149030976
-  rhythmicContrast: 0.19480221532285213
+    - '#040707'
+    - '#1677b0'
+    - '#e8b962'
+    - '#f9fdfe'
+    - '#7e4929'
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
