@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[EventStarter]]></title>
+        <description><![CDATA[EventStarter]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jan 2016 12:48:11 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Get the best merchandise and support great events ]]></title>
+            <description><![CDATA[<article><h1>Get the best merchandise and support great events </h1><p>50 /50 procent of the profit goes to great events linked to the </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b03440c-5203-492f-924d-14e58bc53a37.jpg"></article>]]></description>
+            <link>undefinedget-the-best-merchandise-and-support-great-events/index.html</link>
+            <guid isPermaLink="false">30af24b5-58e8-4899-9021-76b364b49568</guid>
+            <pubDate>Mon, 18 Jan 2016 12:47:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
