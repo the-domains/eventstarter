@@ -1,0 +1,28 @@
+name: EventStarter
+favicon: null
+layout_spectrum: 0.51902
+typography_spectrum: 0.76955
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#080808'
+    - '#66635e'
+    - '#ffffff'
+    - '#aaaaaa'
+    - '#b9714b'
+  brandStrength: 0.8125
+  lightness: 0.6875
+  saturation: 0.3125
+  rhythmicContrast: 0.25
+purpose: []
