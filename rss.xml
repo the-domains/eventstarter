@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[EventStarter]]></title>
         <description><![CDATA[EventStarter]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eventstarter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 12:48:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jan 2016 12:50:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eventstarter/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f4c95c3-f609-450c-92e9-e6d56e28f798.jpg">]]></description>
+            <link>https://thegrid.ai/eventstarter/f6b28b50-ce61-447e-8885-fb986e588221/index.html</link>
+            <guid isPermaLink="false">f6b28b50-ce61-447e-8885-fb986e588221</guid>
+            <pubDate>Mon, 18 Jan 2016 12:50:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Get the best merchandise and support great events ]]></title>
-            <description><![CDATA[<article><h1>Get the best merchandise and support great events </h1><p>50 /50 procent of the profit goes to great events linked to the </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0b03440c-5203-492f-924d-14e58bc53a37.jpg"></article>]]></description>
-            <link>undefinedget-the-best-merchandise-and-support-great-events/index.html</link>
+            <description><![CDATA[<article><h1>Get the best merchandise and support great events </h1><p>50 /50 procent of the profit goes to great events linked to the </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7b0612a9d1c065bac57b268d1c630d39bc00e7d9.jpg"></article>]]></description>
+            <link>https://thegrid.ai/eventstarter/get-the-best-merchandise-and-support-great-events/index.html</link>
             <guid isPermaLink="false">30af24b5-58e8-4899-9021-76b364b49568</guid>
             <pubDate>Mon, 18 Jan 2016 12:47:33 GMT</pubDate>
         </item>
