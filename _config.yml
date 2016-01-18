@@ -1,6 +1,6 @@
 name: EventStarter
 favicon: null
-layout_spectrum: 0.51902
+layout_spectrum: 1
 typography_spectrum: 0.76955
 title: LarpPlatformer
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#080808'
-    - '#66635e'
-    - '#ffffff'
-    - '#aaaaaa'
-    - '#b9714b'
-  brandStrength: 0.8125
-  lightness: 0.6875
-  saturation: 0.3125
-  rhythmicContrast: 0.25
+    - '#040707'
+    - '#1677b0'
+    - '#e8b962'
+    - '#f9fdfe'
+    - '#7e4929'
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 1
 purpose: []
